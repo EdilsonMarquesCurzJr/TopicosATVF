@@ -1,6 +1,9 @@
 # Análise da Pesquisa Data Hackers 2024/2025
 > Bem-vindo ao projeto TopicosATVF, uma análise detalhada da pesquisa Data Hackers 2024/2025, que explora o perfil da comunidade brasileira de profissionais e entusiastas de dados. Este projeto combina técnicas de limpeza de dados, análise exploratória e visualização interativa para revelar padrões e insights valiosos sobre o cenário de dados no Brasil.
 
+Data set: https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025/data
+
+
 > Objetivos do Projeto: O projeto abrange três etapas principais:
 1) Limpeza de Dados: Tratamento do dataset para garantir qualidade, consistência e confiabilidade nas análises.
 2) Análise Exploratória: Exploração univariada e bivariada dos dados utilizando Python, com o objetivo de identificar tendências, padrões e insights relevantes.
